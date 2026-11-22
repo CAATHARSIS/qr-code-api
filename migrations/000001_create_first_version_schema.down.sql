@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS attendence_records;
+DROP TABLE IF EXISTS events;
+DROP TABLE IF EXISTS classrooms;
+DROP TABLE IF EXISTS subjects;
+DROP TABLE IF EXISTS groups;
+DROP TABLE IF EXISTS users;
